@@ -1,0 +1,21 @@
+# Segredos
+.env
+*.env
+!.env.example
+
+# Foundry (bancada de testes)
+test-bench/out/
+test-bench/cache/
+test-bench/broadcast/
+test-bench/lib/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Editores / SO
+.DS_Store
+.vscode/
+.idea/
+</content>

@@ -1,0 +1,8 @@
+# Stack Python do oracle/demo do ReForest+. Só o necessário — nada de deps
+# de outros projetos. Pinamos versões maiores para evitar breaking change.
+
+web3>=7.0,<8.0           # cliente RPC, ABI encoding, contract bindings
+eth-account>=0.13,<0.14  # signing offline com chave privada
+python-dotenv>=1.0,<2.0  # carrega o .env
+typer>=0.12,<1.0         # CLI da demo
+rich>=13.7,<15.0         # tabelas e logs ricos no terminal — substitui a UI no MVP
