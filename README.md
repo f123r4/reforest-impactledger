@@ -8,7 +8,7 @@ A gente fez todo o fluxo principal rodar no navegador, pelo **[Remix IDE](https:
 
 ## O problema
 
-A Ana Beatriz é engenheira ambiental e doou para um projeto de reflorestamento no Vale do Ribeira. Seis meses depois ela foi perguntar como estava e recebeu um PDF com fotos sem data e coordenadas que não batem. Ou seja: ela não tem como saber se as árvores existem.
+Uma engenheira ambiental e doou para um projeto de reflorestamento no Vale do Ribeira. Seis meses depois ela foi perguntar como estava e recebeu um PDF com fotos sem data e coordenadas que não batem. Ou seja: ela não tem como saber se as árvores existem.
 
 Isso acontece o tempo todo. Os projetos dependem de relatório manual, planilha, auditoria cara e rara. Não existe verificação independente, e quem doou fica no escuro.
 
